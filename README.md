@@ -1,2 +1,2 @@
-# arduino-basics
+# arduino basics
 Arduino Basics
