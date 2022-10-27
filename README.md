@@ -1,5 +1,5 @@
 # Getting started with Arudino 
-[ardunino.cc](https://www.arduino.cc/en/Tutorial/HomePage)
+[arduino.cc](https://www.arduino.cc/en/Tutorial/HomePage)
 
 # usage
 ```
