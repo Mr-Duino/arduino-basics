@@ -8,7 +8,7 @@ cd arduino-basics
 ```
 
 # Getting started with Arudino
-[Mr Duino] (https://www.mrduino.com)
+[Mr Duino](https://www.mrduino.com)
 
 
 
